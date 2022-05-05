@@ -7,6 +7,6 @@ Evidence is provided here of the following objectives:
 3. Work effectively as part of a team
 - Cowrote a [Summary](MobWriting.docx) for Proffessional Communications Skills course.
 4. Communicate effectively in a professional context
-- Wrote a [Report](Report.docx) for Programming Fundamentals course.
+- Wrote a [Report](Report.docx) for a BMI application for Programming Fundamentals course.
 5. Define and demonstrate conflict management and resolution strategies.
 - Played out a [Conflict Management Senario](ConflictScenario.docx) using a Collab/Confront approach with a partner for Proffessional Communications Skills course.
