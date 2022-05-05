@@ -9,4 +9,4 @@ Evidence is provided here of the following objectives:
 4. Communicate effectively in a professional context
 - Wrote a [Report](Report.docx) for Programming Fundamentals course.
 5. Define and demonstrate conflict management and resolution strategies.
-- Add evidence here.
+- Played out a [Conflict Management Senario](ConflictScenario.docx) with a partner for Proffessional Communications Skills course.
