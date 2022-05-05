@@ -1,7 +1,7 @@
 # ePortfolio
 Evidence is provided here of the following objectives:
 1. Explain communication concepts and strategies
-- Add evidence here.
+- Defined and showed an undersdanding of [Communication Concepts & Strategies](Communication.docx) in a summary.
 2. Show confidence and skills in oral communications and presentations
 - Gave a Presentation on [Augmented Reality - How it can imporve the lives of Elderly People](CompressedPresentation.mp4) for Proffessional Communications Skills course. Powerpoint included [here](Augmented%20Reality.pptx).
 3. Work effectively as part of a team
